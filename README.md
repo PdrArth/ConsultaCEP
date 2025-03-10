@@ -50,9 +50,7 @@ Clique no botão Run ▶ no Android Studio
 
 ## Screenshots
 
-![Tela Login](https://github.com/PdrArth/App-Delivery-/blob/main/login.JPG)
-
-![Tela Cadastro](https://github.com/PdrArth/App-Delivery-/blob/main/cadastro.JPG)
+![Tela Principal](https://github.com/PdrArth/ConsultaCEP/blob/main/app.JPG)
 
 
 
